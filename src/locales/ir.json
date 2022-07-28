@@ -1,0 +1,15 @@
+{
+  "home": {
+    "listen": "موسیقی عالی گوش کن"
+  },
+  "manage": {
+    "my_songs": "آهنگ های من"
+  },
+  "register": {
+    "TOS": "",
+    "accept": ""
+  },
+  "song": {
+    "comment_count": "{count}comments"
+  }
+}
