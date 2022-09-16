@@ -1,6 +1,6 @@
 # music SPA
 
-../github.com/shadmanAh/Music/blob/main/music_img.png
+![This is an image](/Music/music_img.png)
 
 ## Used Technologies
 - Vue JS
