@@ -1,4 +1,16 @@
-# music
+# music SPA
+
+## Used Technologies
+- Vue JS
+- Vuex
+- vue-router
+- vue-i18n
+- vee-validate
+- HTML 5
+- CSS3
+- tailwindcss
+- Font Awesome
+- firebase
 
 ## Project setup
 ```
